@@ -1,0 +1,18 @@
+{
+  "name": "Mes Recettes",
+  "short_name": "Recettes",
+  "description": "Mon carnet de recettes et ma liste de courses",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5e6d3",
+  "theme_color": "#8b5941",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
